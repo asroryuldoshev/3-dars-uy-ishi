@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.item{
+
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+}
+.header{
+    padding: 76px;
+}
+.title{
+    color: rgb(0, 0, 0);
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+margin-bottom: 128px;
+
+}
+.hero{
+    padding-top: 128px;
+  
+}
+.bola{
+    margin: 333 190 ;
+    width: 558px;
+height: 452px;
+background: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: center;
+padding: 187px 242px 188px 191px;
+margin
+}
+.bolaa{
+    width: 558px;
+    height: 452px;
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding: 187px 242px 188px 191px;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.footer{
+    color: rgb(0, 0, 0);
+font-size: 32px;
+font-weight: 700;
+text-align: center;
+}
+.otaa{
+    margin-top: 257px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
